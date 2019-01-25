@@ -18,4 +18,3 @@ curl -i -X GET  http://localhost:8080/usuari/search/findByEmail?email=mcastrol@g
 curl -i -X GET  http://localhost:8080/usuari/search/deleteByEmail?email=mcastrol@gmail.com
 #Test Borrar por id
 curl -i -X DELETE  http://localhost:8080/usuari/2
-

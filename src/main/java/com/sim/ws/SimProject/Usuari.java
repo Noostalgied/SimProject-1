@@ -61,7 +61,6 @@ public class Usuari {
         this.cognoms = cognoms;
     }
 
-
     public String getEmail() {
         return email;
     }
